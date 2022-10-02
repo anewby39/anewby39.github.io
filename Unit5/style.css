@@ -1,0 +1,8 @@
+body {background-color: orange;}
+h1, h2, h3 {text-align: center;}
+.wrapper {width: 80%; margin: auto; background-color: gray; box-shadow: 10px 10px;}
+div {width: 90%; margin: auto;}
+.itembox {border: black; border-radius: 20px; box-shadow: 5px 5px; background-color: yellow; color: red; padding: 25px 50px 75px 100px;}
+.favorite {border: darkblue; border-radius: 20px; box-shadow: 5px 5px; background-color: lightgray; color: green; padding: 25px 50px 75px 100px;}
+ol {background-color: lightblue; list-style-type: upper-roman;}
+ul {background-color: lightgreen; list-style-type: square;}

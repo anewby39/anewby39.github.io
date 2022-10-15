@@ -1,0 +1,4 @@
+body {background-image: url("david.jpg"); background-size: contain;}
+.wrapper {width:60% ; margin:auto ; margin-top:30px ;}
+ol, ul {list-style-image: url("triforce.jpg");}
+#borderimg {border: 10px solid transparent; padding: 15px; border-image: url(borderpic.jpg) 30 round;}

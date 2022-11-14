@@ -1,0 +1,9 @@
+footer, nav, sidebar {display: none;}
+img {display: none;}
+body {font-size: 1.25em;}
+* {background-color: white; font: black;}
+@media print {
+  a::after{
+    content: " (" attr(href) ") ";
+  }
+}
